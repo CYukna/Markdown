@@ -3,7 +3,7 @@
 
 __Connor Yukna__
 
---Strikethrough text--
+~~Strikethrough text~~
 
 *Italicized text*
 
